@@ -1,0 +1,37 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<Flowershop>
+<h1>Flower Shop</h1>
+<Flower>
+ <id>01</id>
+ <Flower.Name>ROSE</Flower.Name>
+ <No.of.items>2924</No.of.items>
+</Flower>
+
+
+<Flower>
+ <id>02</id>
+ <Flower.Name>TULIP</Flower.Name>
+ <No.of.items>4650 Units</No.of.items>
+</Flower>
+
+ <Flower>   
+ <id>03</id>
+ <Flower.Name>LILY</Flower.Name>
+ <No.of.items>2146 Units</No.of.items>
+ </Flower>
+
+ <Flower>
+ <id>04</id>
+ <Flower.Name>JASMIN</Flower.Name>
+ <No.of.items>929 Units</No.of.items>
+ </Flower>
+
+<Flower>   
+<id>05</id>
+<Flower.Name>DAFFODILS</Flower.Name>
+ <No.of.items>0 Units</No.of.items>
+</Flower>
+
+
+
+</Flowershop>
