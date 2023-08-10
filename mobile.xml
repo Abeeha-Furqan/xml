@@ -1,0 +1,59 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<MOBILE-SHOP>
+
+<MOBILE>
+ <id>091</id>
+ <Brand>oppo</Brand>
+ <Modle>F19 Pro</Modle>
+ <price>49,000</price>
+</MOBILE>
+
+<MOBILE>
+ <id>092</id>
+ <Brand>Apple</Brand>
+ <Modle>14 Pro</Modle>
+  <price>350,000</price>
+</MOBILE>
+
+<MOBILE>
+ <id>093</id>
+ <Brand>Samgsung</Brand>
+ <Modle>S23+</Modle>
+  <price>360,000</price>
+</MOBILE>
+
+<MOBILE>
+ <id>094</id>
+ <Brand>Vivo</Brand>
+ <Modle>V236</Modle>
+  <price>65,000</price>
+</MOBILE>
+
+<MOBILE>
+ <id>095</id>
+ <Brand>Infinix</Brand>
+ <Modle>Note 30 Pro</Modle>
+  <price>70,000</price>
+</MOBILE>
+
+
+<MOBILE>
+ <id>096</id>
+ <Brand>Techno</Brand>
+ <Modle>Camon 20 Pro</Modle>
+  <price>40,000</price>
+</MOBILE>
+
+<MOBILE>
+ <id>097</id>
+ <Brand>Motorolla</Brand>
+ <Modle>Edge plus</Modle>
+  <price>65,000</price>
+</MOBILE>
+
+
+
+</MOBILE-SHOP>

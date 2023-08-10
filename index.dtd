@@ -1,0 +1,7 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<!ELEMENT MOBILE-SHOP (MOBILE+)>
+<!ELEMENT MOBILE (id,Brand,Modle,price)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT Brand (#PCDATA)>
+<!ELEMENT Modle (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
